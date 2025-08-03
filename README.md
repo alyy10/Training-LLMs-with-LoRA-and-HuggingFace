@@ -41,12 +41,6 @@ The [samsum dataset](https://huggingface.co/datasets/samsum) consists of ~14,732
 
 Clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-pip install -r requirements.txt
-```
-
 The `requirements.txt` file should include:
 
 ```
